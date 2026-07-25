@@ -1,4 +1,4 @@
-Les shema graphql
+Les shemas graphql
 
 type Client {
   id: ID!
